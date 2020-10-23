@@ -1,0 +1,13 @@
+C:\Users\gurkan.ozal\RiderProjects\CombinationApp\CombinationApp\bin\Debug\netcoreapp3.1\CombinationApp.exe
+C:\Users\gurkan.ozal\RiderProjects\CombinationApp\CombinationApp\bin\Debug\netcoreapp3.1\CombinationApp.deps.json
+C:\Users\gurkan.ozal\RiderProjects\CombinationApp\CombinationApp\bin\Debug\netcoreapp3.1\CombinationApp.runtimeconfig.json
+C:\Users\gurkan.ozal\RiderProjects\CombinationApp\CombinationApp\bin\Debug\netcoreapp3.1\CombinationApp.runtimeconfig.dev.json
+C:\Users\gurkan.ozal\RiderProjects\CombinationApp\CombinationApp\bin\Debug\netcoreapp3.1\CombinationApp.dll
+C:\Users\gurkan.ozal\RiderProjects\CombinationApp\CombinationApp\bin\Debug\netcoreapp3.1\CombinationApp.pdb
+C:\Users\gurkan.ozal\RiderProjects\CombinationApp\CombinationApp\obj\Debug\netcoreapp3.1\CombinationApp.csprojAssemblyReference.cache
+C:\Users\gurkan.ozal\RiderProjects\CombinationApp\CombinationApp\obj\Debug\netcoreapp3.1\CombinationApp.csproj.CoreCompileInputs.cache
+C:\Users\gurkan.ozal\RiderProjects\CombinationApp\CombinationApp\obj\Debug\netcoreapp3.1\CombinationApp.AssemblyInfoInputs.cache
+C:\Users\gurkan.ozal\RiderProjects\CombinationApp\CombinationApp\obj\Debug\netcoreapp3.1\CombinationApp.AssemblyInfo.cs
+C:\Users\gurkan.ozal\RiderProjects\CombinationApp\CombinationApp\obj\Debug\netcoreapp3.1\CombinationApp.dll
+C:\Users\gurkan.ozal\RiderProjects\CombinationApp\CombinationApp\obj\Debug\netcoreapp3.1\CombinationApp.pdb
+C:\Users\gurkan.ozal\RiderProjects\CombinationApp\CombinationApp\obj\Debug\netcoreapp3.1\CombinationApp.genruntimeconfig.cache
